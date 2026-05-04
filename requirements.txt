@@ -1,0 +1,2 @@
+# No external dependencies — stdlib only (json, pathlib, sys, os, datetime, textwrap, shutil)
+# Requires Python 3.10+
