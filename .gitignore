@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Persona style data collection
+persona-model/dataset/responses_progress.json
+persona-model/dataset/style_dataset.json
+persona-model/dataset/style_dataset.jsonl
