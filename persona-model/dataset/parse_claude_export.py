@@ -126,7 +126,7 @@ def main():
     lines = [json.dumps(r, ensure_ascii=False) for r in records]
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-    print(f"Parsed {len(conversations)} conversations → {len(records)} training records")
+    print(f"Parsed {len(conversations)} conversations -> {len(records)} training records")
     print(f"Output: {output_path}")
 
 
