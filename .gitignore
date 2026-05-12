@@ -221,3 +221,7 @@ __marimo__/
 persona-model/dataset/responses_progress.json
 persona-model/dataset/style_dataset.json
 persona-model/dataset/style_dataset.jsonl
+persona-model/dataset/claude_conversations.jsonl
+
+# Local raw data (personal exports, conversation logs)
+local/
